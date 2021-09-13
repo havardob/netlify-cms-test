@@ -1,4 +1,4 @@
 ---
-layout: "home.njk"
-title: "Home"
+layout: home.njk
+title: Hjem
 ---
