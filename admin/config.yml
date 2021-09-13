@@ -1,0 +1,9 @@
+backend:
+  name: github
+  repo: havardob/netlify-cms-test
+  branch: main
+
+collections: 
+  - name: "products" 
+    label: "Products"
+    folder: "products"
